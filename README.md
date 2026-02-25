@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
-**yomchala1/yomchala1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+‎<h3 align="center">
+‎  <span style="color:#00FF7F;">I'm Yomif Chala</span>
+‎</h3>
+‎#
+‎
+‎🎓 Information Systems Student at Haramaya University  
+‎💻 Passionate about Technology and Programming  
+‎🌱 Currently learning Web Development  
+‎📍 Haramaya, Ethiopia  
+‎
+‎## 🔧 Skills
+‎- 📄HTML
+‎- 🎨CSS
+‎- ⚡JavaScript
+‎- 🐘PHP
+‎- 🐍Python
+‎- 🗄️Database (MySQL)
+‎
+‎## 📫 Contact
+‎- 📩 Gmail: yomchala1@gmail.com
+‎
+‎
