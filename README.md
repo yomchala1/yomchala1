@@ -9,14 +9,14 @@
 ‎📍 Haramaya, Ethiopia  
 ‎
 ‎## 🔧 Skills
-‎- 📄HTML
-‎- 🎨CSS
-‎- ⚡JavaScript
-‎- 🐘PHP
-‎- 🐍Python
-‎- 🗄️Database (MySQL)
+- 📄HTML
+- 🎨CSS
+- ⚡JavaScript
+- 🐘PHP
+- 🐍Python
+- 🗄️Database (MySQL)
 ‎
 ‎## 📫 Contact
-‎- 📩 Gmail: yomchala1@gmail.com
+- 📩 Gmail: yomchala1@gmail.com
 ‎
 ‎
