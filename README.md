@@ -8,7 +8,7 @@
 ‎🌱 Currently learning Web Development  
 ‎📍 Haramaya, Ethiopia  
 ‎
-## 🔧 Skills
+## 🔧 Learning Skills
 - 📄HTML
 - 🎨CSS
 - ⚡JavaScript
